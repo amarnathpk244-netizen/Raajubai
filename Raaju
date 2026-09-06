@@ -1,0 +1,18 @@
+print("===== PATIENT DETAILS =====")
+
+name = input("Enter Name: ")
+age = input("Enter Age: ")
+sex = input("Enter Sex: ")
+address = input("Enter Address: ")
+op_no = input("Enter OP No: ")
+date = input("Enter Date (DD/MM/YYYY): ")
+dob = input("Enter Date of Birth (DD/MM/YYYY): ")
+
+print("\n===== PATIENT DETAILS =====")
+print("Name:", name)
+print("Age:", age)
+print("Sex:", sex)
+print("Address:", address)
+print("OP No:", op_no)
+print("Date:", date)
+print("Date of Birth:", dob)
